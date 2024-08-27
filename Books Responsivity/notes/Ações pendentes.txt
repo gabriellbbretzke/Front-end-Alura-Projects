@@ -1,0 +1,5 @@
+- Responsividade desktop
+- Hover dos botões
+
+- Publicar no github
+- VIsualizar no Github pages
